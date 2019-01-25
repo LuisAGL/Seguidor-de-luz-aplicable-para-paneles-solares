@@ -14,4 +14,4 @@ Buscar y seguir la mayor fuente de luz encontrada para dar mejor regimen de ener
 
 ## Esquema
 
-[diagrama](https://fotos.subefotos.com/2a110593b2c04f4087d74e11c486da4bo.jpg)
+![diagrama](https://fotos.subefotos.com/2a110593b2c04f4087d74e11c486da4bo.jpg)
