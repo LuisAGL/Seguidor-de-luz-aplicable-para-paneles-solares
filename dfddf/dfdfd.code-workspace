@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Visual Code Repositorios\\Procesadores-Tutorial\\Procesadores-Tutorial\\Seguidor-Solar\\Seguidor-Solar"
+		},
+		{
+			"path": "D:\\Visual Code Repositorios\\Procesadores-Tutorial\\Procesadores-Tutorial\\Procesadores-Tutorial",
+			"name": "Procesadores-Tutorial"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#3B2735",
+			"titleBar.activeBackground": "#52374A",
+			"titleBar.activeForeground": "#FBFAFB"
+		}
+	}
+}
