@@ -1,4 +1,4 @@
-# Panel Solar Movil
+# Seguidor de luz aplicable a paneles solares
 
 ## Componentes
 - Arduino uno
