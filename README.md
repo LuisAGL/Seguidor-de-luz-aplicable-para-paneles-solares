@@ -1,4 +1,4 @@
-# Seguidor de luz aplicable a paneles solares
+# Seguidor de luz aplicable para paneles solares
 
 ## Componentes
 - Arduino uno
