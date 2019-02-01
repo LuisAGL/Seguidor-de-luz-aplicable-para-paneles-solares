@@ -1,0 +1,15 @@
+# Presentacion y explicacion
+
+Actualmente el cambio climático y contaminación es un problema que afecta a todo el mundo, es debido a esto que se trata de buscar nuevas 
+tecnologías que sean amigables al medio ambiente, es por esto que nosotros al ver el uso de los paneles solares que es una forma de obtener
+energía eléctrica de manera eco amigable, pensamos como lograr que capten la mayor cantidad de energía solar posible y en base a eso 
+realizamos nuestro proyecto.
+El proyecto realizado es un seguidor de luz aplicable para paneles solares, el proyecto realiza un seguimiento de la luz, haciendo que 
+se mueva el panel solar hacia la dirección en la que se encuentra la luz, para de esa manera lograr aprovechar al máximo la energía solar 
+durante un día.
+El proyecto está armado con 4 fotorresistencias, 4 resistencias, jumpers, 2 servomotores y está controlado con un arduino.
+
+## El proyecto funciona de la siguiente manera: 
+•	Las fotorresistencias nos dan una señal analógica al percibir la luz.
+•	La señal va al arduino.
+•	En base a estos datos mandamos la posición a la que debe rotar los servomotores.
