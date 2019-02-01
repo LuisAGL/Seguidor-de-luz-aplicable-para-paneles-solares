@@ -7,7 +7,6 @@
 - 4 resistencias
 - Jumpers
 - 4 Resistencias
-- Display LCD
 
 ## Funcion
 Buscar y seguir la mayor fuente de luz encontrada para dar mejor regimen de energia.
